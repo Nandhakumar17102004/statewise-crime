@@ -1,1 +1,9 @@
+CyberCrimeRecords Classification Aug 2022 - Nov 2022
+Database Management
+– Built a web solution for classifying and analyzing cybercrime case records using PHP for backend and MySQL for persistent
+storage.
+– Designed relational database schema, optimized SQL queries, and incorporated graphical dashboards for data visualization
+(charts for trends and hotspots).
+– Integrated external libraries for charting and mapped crime statistics to enable interactive analysis for law enforcement
+insights.
 
